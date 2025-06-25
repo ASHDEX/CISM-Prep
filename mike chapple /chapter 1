@@ -45,12 +45,47 @@ information security program against its desired state. FIGURE 1.6 Cybersecurity
 ISACA offers the Capability Maturity Model Integration (CMMI) as a method to assess maturity of an organization. The use of these models is particularly common in software development efforts and in U.S. government contracting work, but the model may also be applied to security and other processes. FIGURE 1.7 CMMI levels Under CMMI, an organization assesses each
 
 At Level 1: Initial, the organization has unpredictable processes that are poorly controlled. This level is characterized by reactive management and a “firefighting” approach. When an organization achieves 
-Level 2: Managed, it begins to implement
-
-organized processes on a per-project basis but is still operating in reactive mode. Moving on to 
+Level 2: Managed, it begins to implementorganized processes on a per-project basis but is still operating in reactive mode. Moving on to 
 Level 3: Defined, the organization has standard processes that are used organization wide and are adapted for use within each project. This level marks a shift from reactive to proactive management. 
 Level 4: Quantitatively Managed organizations build measurement and controls on top of their processes to allow them to quickly identify and remediate deficiencies and address control gaps before issues arise. At the top tier of the CMMI, 
 Level 5: Optimizing organizations use a continuous process improvement approach to adjust and fine-tune the way that they work to achieve peak efficiency and effectiveness.
 
 The five characteristics of a SMART goal are as follows: The goal is specific. It describes clearly what the organization intends to achieve. The goal is measurable. It includes clear criteria by which the organization can measure success. The goal is achievable. The organization can realistically achieve the goal within the specified time period. The goal is relevant. If achieved, the goal will advance the organization's strategic objectives. The goal is time-bound. It includes a specific deadline for achievement.
+
+
+High-risk users who are the likely targets of cyberattacks. This may be because they are high-profile individuals likely to attract attention or because they engage in activities that place them at higher risk, such as frequently traveling to high-risk destinations.
+Privileged users who would pose a higher-than-average risk if their accounts were compromised. This includes technologists with administrative access to systems, finance professionals with the ability to initiate funds transfers, executives with access to sensitive information, and other similar highly privileged groups.
+
+There are three different categories of security control: Technical controls enforce confidentiality, integrity, and availability in the digital space. Examples of technical security controls include firewall rules, access control lists, intrusion prevention systems, and encryption. Operational controls include the processes that we put in place to manage technology in a secure manner. These include user access reviews, log monitoring, and vulnerability management.Managerial controls are procedural mechanisms that focus on the mechanics of the risk management process. Examples of administrative controls include periodic risk assessments, security planning exercises, and the incorporation of security into the organization's change management, service acquisition, and project management practices.
+
+
+types of security control include the following: Preventive controls intend to stop a security issue before it occurs. Firewalls and encryption are examples of preventive controls.
+Detective controls identify security events that have already occurred. Intrusion detection systems are detective controls.
+Corrective controls remediate security issues that have already occurred. Restoring backups after a ransomware attack is an example of a corrective control.
+Deterrent controls seek to discourage an attacker from attempting to violate security policies. Vicious guard dogs and barbed wire fences are examples of deterrent controls.
+Physical controls are security controls that impact the physical world. Examples of physical security controls include fences, perimeter lighting, locks, fire suppression systems, and burglar alarms.
+Compensating controls are controls designed to mitigate the risk associated with exceptions made to a security policy.
+
+Data at rest is stored data that resides on hard drives, tapes, in the cloud, or on other storage media. This data is prone to pilfering by insiders or external attackers who gain access to systems and are able to browse through their contents. Data in motion is data that is in transit over a network. When data travels on an untrusted network, it is open to eavesdropping attacks by anyone with access to those networks. Data in processing is data that is actively in use by a computer system. This includes the data stored in memory while processing takes place. An attacker with control of the system may be able to read the contents of memory and steal sensitive information.
+
+DLP systems work in two different environments: Host-based DLP Network DLP Host-based DLP uses software agents installed on systems that search those systems for the presence of sensitive information.
+
+Network-based DLP systems are dedicated devices that sit on the network and monitor outbound network traffic, watching for any transmissions that contain unencrypted sensitive information. They can then block those transmissions, preventing the unsecured loss of sensitive information.
+
+DLP systems also have two mechanisms of action: Pattern matching, where they watch for the telltale signs of sensitive information. For example, if they see a number that is formatted like a credit card or Social Security number, they can automatically trigger on that. Similarly, they may contain a database of sensitive terms, such as “credit card” or “blood pressure,” and trigger when they see those terms in a transmission. Watermarking, where systems or administrators apply electronic tags to sensitive documents and then the DLP system can monitor systems and networks for unencrypted content containing those tags. Watermarking technology is also commonly used in digital rights management (DRM) solutions that enforce copyright and data ownership restrictions.
+
+Data Minimization Data minimization techniques reduce risk by reducing the amount of sensitive information that we maintain on a regular basis. The best way to achieve data minimization is to simply destroy data when it is no longer necessary to meet our original business purpose.
+
+The de-identification (or “anonymization”) process removes the ability to link data back to an individual, reducing its sensitivity.
+
+Hashing uses a hash function to transform a value in our dataset to a corresponding hash value.
+
+Tokenization replaces sensitive values with a unique identifier using a
+
+Masking partially redacts sensitive information by replacing some or all sensitive fields with blank characters.
+
+
+
+
+ 
 
