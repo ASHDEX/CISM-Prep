@@ -1,0 +1,56 @@
+Confidentiality ensures that unauthorized individuals are not able to gain access to sensitive information.
+
+Attackers may seek to undermine confidentiality controls to achieve one of their goals: the unauthorized disclosure of sensitive information.
+
+Integrity ensures that there are no unauthorized modifications to information or systems, either intentionally or unintentionally. Security professionals use integrity controls, such as hashing and integrity monitoring solutions, to enforce this requirement. Integrity threats may come from attackers actively seeking the alteration of information without authorization, or they may result from human error, mechanical failure, or environmental conditions, such as a power spike corrupting information.
+
+Availability ensures that information and systems are ready to meet the needs of legitimate users at the time those users request them.
+
+The CISO bears ultimate responsibility for protecting the confidentiality, integrity, and availability of the information and systems used by the organization.
+
+only and will vary from organization to organization. FIGURE 1.3 Typical cybersecurity organizational structure
+
+The span of control represents the number of individuals whodirectly report to a position.
+
+the goal of information security is to protect the confidentiality, integrity, and availability of an organization's information and information assets. The goal of cybersecurity is to protect the confidentiality, integrity, and availability of an organization's digital resources.
+
+Information security, properly defined, is responsible for the security of all information, whether in digital or analog form. An information security program would be responsible not only for electronic information systems but also for the protection of paper records and other nondigital assets. Cybersecurity, properly defined, is responsible for the security of all digital assets and may be thought of as a subset of the field of information security.
+
+The RACI matrix is a common management tool used to specify how roles and responsibilities are shared throughout an organization. The matrix shows various security responsibilities and roles and then includes one of four letters indicating the level of involvement each role has in that responsibility.
+
+Responsible (R) roles are those who actually carry out the work involved. There must be at least one role assigned as responsible for each responsibility, although there may be more than one. Accountable (A) roles bear ultimate and final responsibility for achieving the objective. Consider this the “buck stops here” role for the responsibility. Each responsibility in the matrix must have one, and only one, accountable role. Consulted (C) roles are those who provide input that affects the responsibility because of their subject matter expertise. Informed (I) roles are those who are provided with regular updates on the status of the effort. They may need this information to complete their work, oversee the organization, or perform other tasks, but the key characteristic is that, unlike consulted roles, informed roles receive updates but do not provide input.
+
+RACI matrix for a few security roles in an organization. FIGURE 1.4 RACI matrix for information security
+
+Disclosure is the exposure of sensitive information to unauthorized individuals, otherwise known as data loss. Disclosure is a violation of the principle of confidentiality. Attackers who gain access to sensitive information and remove it from the organization are said to be performing data exfiltration. Disclosure may also occur accidentally, such as when an administrator misconfigures access controls or an employee loses a device. Alteration is the unauthorized modification of information and is a violation of the principle of integrity. Attackers may seek to modify records contained in a system for financial gain, such as adding fraudulent transactions to a financial account. Alteration may occur as the result of natural activity, such as a power surge causing a “bit flip” that modifies stored data. Accidental alteration is also a possibility, if users unintentionally modify information stored in a critical system as the result of a typo or other unintended activity. Denial is the disruption of an authorized user's legitimate access to information. Denial events violate the principle of availability. This availability loss may be intentional, such as when an attacker launches a distributed denial-of-service (DDoS) attack against a website. Denial may also occur as the result of accidental activity, such as the failure of a critical server, or as the result of natural activity, such as a natural disaster impacting a communications circuit.
+
+Financial risk is, as the name implies, the risk of monetary damage to the organization as the result of a data breach, service disruption, or other security incident.
+
+Financial risk may also be indirect and come as a second-order consequence of the breach.
+
+Reputational risk occurs when the negative publicity surrounding a security breach causes the loss of goodwill among customers, employees, suppliers, and other stakeholders.
+
+Strategic Risk Strategic risk is the risk that an organization will become less effective in meeting its major goals and objectives as a result of the breach.
+
+Operational Risk Operational risk is risk to the organization's ability to carry out its day-to-day functions. Operational risks may slow down business processes, delay delivery of customer orders, or require the implementation of time-consuming manual workarounds to normally automated practices.
+
+Compliance Risk Compliance risk occurs when a security breach causes an organization to run afoul of legal or regulatory requirements.
+
+Threat actors are the individuals or groups seeking to undermine the security of an organization. Threat vectors are the tactics, tools, and techniques used by threat actors to achieve their objectives.
+
+SWOT analysis is a technique commonly used by organizations to assess their current state and develop their forward-looking strategy. SWOT is an acronym describing the four major elements of the analysis: Strengths are internal characteristics of the organization that provide it with an advantage toward achieving its goals/ mission. For example, a cybersecurity team might consider its cybersecurity awareness program as a strength if it is particularly effective. Weaknesses are internal characteristics of the organization that place it at a disadvantage toward achieving its goals/ mission. For example, a cybersecurity team might identify the lack of application security skills as a weakness. Opportunities are external factors that the organization might exploit to better achieve its goals/ mission. For example, a cybersecurity team might consider the use of managed service providers as an opportunity to relieve the burden on the team and focus their work on value-added activities. Threats are external factors that might jeopardize the organization's ability to achieve its goals/ mission. For example, a new privacy law passed by a jurisdiction within which the company operates might pose a threat to the organization.
+
+information security program against its desired state. FIGURE 1.6 Cybersecurity SWOT analysis example
+
+ISACA offers the Capability Maturity Model Integration (CMMI) as a method to assess maturity of an organization. The use of these models is particularly common in software development efforts and in U.S. government contracting work, but the model may also be applied to security and other processes. FIGURE 1.7 CMMI levels Under CMMI, an organization assesses each
+
+At Level 1: Initial, the organization has unpredictable processes that are poorly controlled. This level is characterized by reactive management and a “firefighting” approach. When an organization achieves 
+Level 2: Managed, it begins to implement
+
+organized processes on a per-project basis but is still operating in reactive mode. Moving on to 
+Level 3: Defined, the organization has standard processes that are used organization wide and are adapted for use within each project. This level marks a shift from reactive to proactive management. 
+Level 4: Quantitatively Managed organizations build measurement and controls on top of their processes to allow them to quickly identify and remediate deficiencies and address control gaps before issues arise. At the top tier of the CMMI, 
+Level 5: Optimizing organizations use a continuous process improvement approach to adjust and fine-tune the way that they work to achieve peak efficiency and effectiveness.
+
+The five characteristics of a SMART goal are as follows: The goal is specific. It describes clearly what the organization intends to achieve. The goal is measurable. It includes clear criteria by which the organization can measure success. The goal is achievable. The organization can realistically achieve the goal within the specified time period. The goal is relevant. If achieved, the goal will advance the organization's strategic objectives. The goal is time-bound. It includes a specific deadline for achievement.
+
