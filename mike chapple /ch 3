@@ -1,0 +1,70 @@
+In an enterprise risk management (ERM) program, organizations take a formal approach to risk analysis that begins with identifying risks, continues with determining the severity of each risk, and then results in adopting one or more risk management strategies to address each risk.
+
+Threats are any possible events that might have an adverse impact on the confidentiality, integrity, and/ or availability of our information or information systems. Vulnerabilities are weaknesses in our systems or controls that could be exploited by a threat. Risks occur at the intersection of a vulnerability and a threat that might exploit that vulnerability. A threat without a corresponding vulnerability does not pose a risk, nor does a vulnerability without a corresponding threat.
+
+risk identification process requires identifying the threats and vulnerabilities that exist in your operating environment.
+
+External risks are those risks that originate from a source outside the organization. This is an extremely broad category of risk, including cybersecurity adversaries, malicious code, and natural disasters, among many other types of risk.
+  Internal risks are those risks that originate from within the organization. They include malicious insiders, mistakes made by authorized users, equipment failures, and similar risks. 
+Multiparty risks are those that impact more than one organization. For example, a power outage to a city block is a multiparty risk because it affects all of the buildings on that block. Similarly, the compromise of an SaaS provider's database is a multiparty risk because it compromises the information of many different customers of the SaaS provider. 
+  Legacy systems pose a unique type of risk to organizations. These outdated systems often do not receive security updates, and cybersecurity professionals must take extraordinary measures to protect them against unpatchable vulnerabilities.
+
+evaluate any risk, we do so by using two different factors: 
+The likelihood of occurrence, or probability, that the risk will occur. We might express this as the percentage of chance that a threat will exploit a vulnerability over a specified period of time, such as within the next year. The magnitude of the impact that the risk will have on the organization if it does occur. We might express this as the financial cost that we will incur as the result of a risk, although there are other possible measures.
+
+Quantitative risk assessments use numeric data in the analysis, resulting in assessments that allow the very straightforward prioritization of risks. Qualitative risk assessments substitute subjective judgments and categories for strict numerical analysis, allowing the assessment of risks that are difficult to quantify.
+
+Quantitative Risk Assessment Most quantitative risk assessment processes follow a similar methodology that includes the following steps: 
+Determine the asset value (AV) of the asset affected by the risk. This asset value (AV) is expressed in dollars, or other currency, and may be determined by using the cost to acquire the asset, the cost to replace the asset, or the depreciated cost of the asset, depending on the organization's preferences.
+Determine the likelihood that the risk will occur. 
+isk analysts consult subject matter experts and determine the likelihood that a risk will occur in a given year. This is expressed as the number of times the risk is expected to happen each year and is described as the annualized rate of occurrence (ARO). A risk that is expected to occur twice a year has an ARO of 2.0, whereas a risk that is expected once every one hundred years has an ARO of 0.01. Determine the amount of damage that will occur to the asset if the risk materializes. This is known as the exposure factor (EF) and is expressed as the percentage of the asset expected to be damaged. The exposure factor of a risk that would completely destroy an asset is 100 percent, whereas a risk that would damage half of an asset has an EF of 50 percent.
+Calculate the single loss expectancy. The single loss expectancy (SLE) is the amount of financial damage expected each time this specific risk materializes. It is calculated by multiplying the AV by the EF. 
+Calculate the annualized loss expectancy. The annualized loss expectancy (ALE) is the amount of damage expected from a risk each year. It is calculated by multiplying the SLE and the ARO.
+
+key risk indicators (KRIs) that facilitate risk monitoring. These KRIs are quantitative measures of risk that may be easily monitored for situations where they exceed a defined threshold value or worrisome trends.
+
+Risk treatment is the process of systematically responding to the risks facing an organization. The risk assessment serves two important roles in the risk management process: The risk assessment provides guidance in prioritizing risks so that the risks with the highest probability and magnitude are addressed first. Quantitative risk assessments help determine whether the potential impact of a risk justifies the costs incurred by adopting a specific risk management approach.
+
+Risk Mitigation Risk mitigation is the process of applying security controls to reduce the probability and/ or magnitude of a risk. Risk mitigation is the most common risk management strategy, and the vast majority of the work of security professionals revolves around mitigating risks through the design, implementation, and management of security controls.
+
+Risk Avoidance Risk avoidance is a risk management strategy by which we change our business practices to completely eliminate the potential that a risk will materialize.
+
+Risk Transference Risk transference shifts some of the impact of a risk from the organization experiencing the risk to another entity.
+Risk Acceptance Risk acceptance is the final risk management strategy, and it boils down to deliberately choosing to take no other risk management strategy and to simply continue operations as normal in the face of the risk.
+
+The inherent risk facing an organization is the original level of risk that exists before implementing any controls. Inherent risk takes its name from the fact that it is the level of risk inherent in the organization's business. The residual risk is the risk that remains after an organization implements controls designed to mitigate, avoid, and/ or transfer the inherent risk. An organization's risk appetite is the level of risk that the organization is willing to accept as a cost of doing business.
+
+Control risk is the risk that arises from the potential that a lack of internal controls within the organization will cause a material misstatement in the organization's financial reports. Information technology risks can contribute to control risks if they jeopardize the integrity or availability of financial information.
+
+some examples of business areas that should incorporate risk management: Software and systems development efforts create and modify software and systems on a regular basis. New and modified systems are a potential source of risk to the organization, and integrating risk assessment and response practices into these development efforts helps ensure that the organization integrates security from the start and does not need to “bolt on” security controls after the fact in a costly and error-prone approach. 
+  Procurement processes bring new vendors and systems into the organization, another source of potential risk. Any new or renewing relationship with a vendor should include a formal risk assessment that identifies potential risks associated with the relationship and implements appropriate risk treatments before moving forward. 
+  Project management procedures govern much of the work performed in the modern organization and, like software and systems development, often result in change to business practices and technology. Project management procedures should incorporate risk assessments that identify new or changed risks that arise during the course of a project and address them appropriately. The goal of integrating risk management into everyday business activity is to enable a consistent and comprehensive risk management program across the business.
+
+Business Impact Analysis The business impact analysis (BIA) is a formal process designed to identify the mission-essential functions within an organization and facilitate the identification of the critical systems that support those functions. Four core metrics are used in the BIA process that you should understand when preparing for the exam:
+The mean time between failures (MTBF) is a measure of the reliability of a system. It is the expected amount of time that will elapse between system failures. For example, if the MTBF is six months, you can expect that the system will fail once every six months, on average.
+	The mean time to repair (MTTR) is the average amount of time to restore a system to its normal operating state after a failure. 
+The recovery time objective (RTO) is the amount of time that the organization can tolerate a system being down before it is repaired. The service team is meeting expectations when the time to repair is less than the RTO.
+The recovery point objective (RPO) is the amount of data that the organization can tolerate losing during an outage.
+
+Organizations should include the following types of information in their inventory: Personally identifiable information (PII) includes any information that uniquely identifies an individual person, including customers, employees, and third parties. Protected health information (PHI) includes medical records maintained by health-care providers and other organizations that are subject to the Health Insurance Portability and Accountability Act (HIPAA). Financial information includes any personal financial records maintained by the organization.
+
+Information Classification Information classification programs organize data into categories based on the sensitivity of the information and the impact on the organization should the information be inadvertently disclosed. For example, the U.S. government uses the following four major classification categories: 
+Top Secret information requires the highest degree of protection. The unauthorized disclosure of Top Secret information could reasonably be expected to cause exceptionally grave damage to national security.
+	Secret information requires a substantial degree of protection. The unauthorized disclosure of Secret information could reasonably be expected to cause serious damage to national security.
+	Confidential information requires some protection. The unauthorized disclosure of Confidential information could reasonably be expected to cause identifiable damage to national security. 
+	Unclassified information is information that does not meet the standards for classification under the other categories. Information in this category is still not publicly releasable without authorization.
+
+Data controllers are the entities who determine the reasons for processing personal information and direct the methods of processing that data. This term is used primarily in European law, and it serves as a substitute for the term data owner to avoid a presumption that anyone who collects data has an ownership interest in that data.
+Data stewards are individuals who carry out the intent of the data controller and are delegated both authority and responsibility from the controller. 
+	Data custodians are individuals or teams who do not have controller or stewardship responsibility but who are responsible for the secure safekeeping of information. For example, a data controller or data steward might delegate responsibility for securing PII to an information security team. In that case, the information security team serves as a data custodian.
+Data processors are service providers that process personal information on behalf of a data controller. For example, a credit card processing service might be a data processor for a retailer. The retailer retains responsibility as the data controller. The credit card processing service that the retailer uses
+
+Data subjects are the individuals about whom data is collected, stored, and processed. The data subject for a record containing personally identifiable information is the person whom the record is about.
+
+organizations should practice data minimization, where they collect the smallest possible amount of information necessary to meet their business requirements.
+
+the organization should practice purpose limitation. This means that information should be used only for the purpose that it was originally collected and that was consented to by the data subjects.
+
+This is a process called data obfuscation, and we have several tools at our disposal to assist with it: Hashing uses a hash function to transform a value in our dataset to a corresponding hash value. If we apply a strong hash function to a data element, we may replace the value in our file with the hashed value. Tokenization replaces sensitive values with a unique identifier using a lookup table. For example, we might replace a widely known value, such as a student ID, with a randomly generated 10-digit number. We'd then maintain a lookup table that allows us to convert those back to the student ID if we need to determine someone's identity. Of course, if you use this approach, you need to keep the lookup table secure! Data masking partially redacts sensitive information by replacing some or all sensitive fields with blank characters. For example, we might replace all but the last four digits of a credit card number with Xs or asterisks to render the card number unreadable.
+
+. 
