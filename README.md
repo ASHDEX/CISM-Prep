@@ -6,3 +6,4 @@ CISM PREP NOTES
 
 # Week 3-4 
  2. CISM peter Gregory
+    Day3 : Chapter review questions from mike chapple done 
