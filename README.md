@@ -50,3 +50,7 @@ CISM PREP NOTES
 
  Day 5 : Domain2 from AIO done , D2 questions also done . 
          Pete D1 video done and notes taken 
+
+
+
+Day 6 : Domain 1-4 note revisiion , Pete D2 video done          
