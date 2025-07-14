@@ -54,3 +54,12 @@ CISM PREP NOTES
 
 
 Day 6 : Domain 1-4 note revisiion , Pete D2 video done          
+
+
+
+
+
+# Week 4 
+
+
+Day 1 : 50 Question done , D1-d4 review notes , Prabh nair CISM question videos done 
