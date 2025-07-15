@@ -63,3 +63,16 @@ Day 6 : Domain 1-4 note revisiion , Pete D2 video done
 
 
 Day 1 : 50 Question done , D1-d4 review notes , Prabh nair CISM question videos done 
+
+
+
+
+
+
+
+
+
+
+
+
+Day 2 : Prabh nair 40 questions , Doman 1-4 notes reviewe, QAE100 jquestion
