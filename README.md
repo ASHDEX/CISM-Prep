@@ -76,3 +76,8 @@ Day 1 : 50 Question done , D1-d4 review notes , Prabh nair CISM question videos 
 
 
 Day 2 : Prabh nair 40 questions , Doman 1-4 notes reviewe, QAE100 jquestion
+
+
+
+
+Day 3 : QAE 300 queston , Pete book domain 1 , d1-4 notes review 
