@@ -81,3 +81,14 @@ Day 2 : Prabh nair 40 questions , Doman 1-4 notes reviewe, QAE100 jquestion
 
 
 Day 3 : QAE 300 queston , Pete book domain 1 , d1-4 notes review 
+
+
+
+
+
+
+
+
+
+
+Day 4 : 150 QAE question . Pete book domain 2
