@@ -92,3 +92,14 @@ Day 3 : QAE 300 queston , Pete book domain 1 , d1-4 notes review
 
 
 Day 4 : 150 QAE question . Pete book domain 2
+
+
+
+
+
+
+# Week 4 
+
+
+
+Day1 : 100 QAE questions , D1 from Pete book , d1-4 note review 
