@@ -102,7 +102,27 @@ Day 4 : 150 QAE question . Pete book domain 2
 
 
 
-Day1 : 100 QAE questions , D1 from Pete book , d1-4 note review 
+Day1 : 100 QAE questions , D1 from Pete book , d1-4 note review |
+
+
+
+
+
+
+
+
 Day2: 200 QAE questions , D4 from Pete book , D! from pete book review 
+
+
+
+
+
 Day3 : 150 QAE , D2 from Pete book ,Prabh Nair CISM video 
+
+
+
+
+
+
+
 Day4 : 200 QAE , , D3 from pete book , D4 review 
