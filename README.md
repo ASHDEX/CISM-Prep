@@ -126,3 +126,21 @@ Day3 : 150 QAE , D2 from Pete book ,Prabh Nair CISM video
 
 
 Day4 : 200 QAE , , D3 from pete book , D4 review 
+
+
+
+
+
+
+Day 5: 200 QAE questions , D3 review 
+
+
+
+
+
+
+
+
+
+
+Day 6 : 200 Questions , D3 from pete book
