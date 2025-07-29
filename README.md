@@ -144,3 +144,10 @@ Day 5: 200 QAE questions , D3 review
 
 
 Day 6 : 200 Questions , D3 from pete book
+
+
+
+# Week 6
+
+day 1 : Remaining QAE , Domain 3 review 
+Day 2 : QAE Questions done , D3 from Pete book completed 
