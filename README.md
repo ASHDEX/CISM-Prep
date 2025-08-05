@@ -183,3 +183,10 @@ day 1 : Remaining QAE , Domain 3 review
 
 
 Day 2 : QAE Questions done , D3 from Pete book completed 
+
+
+
+
+
+
+DAY 3 : DAOMAIN4 QAE ALL DONE  
