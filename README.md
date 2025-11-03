@@ -1,4 +1,5 @@
 CISM PREP NOTES 
+###### Passed on 2n Nov
 
 
 # Week 1-2 
@@ -152,7 +153,7 @@ Day 6 : 200 Questions , D3 from pete book
 day 1 : Remaining QAE , Domain 3 review 
 
 
-### Passed on 2n Nov
+
 
 
 
