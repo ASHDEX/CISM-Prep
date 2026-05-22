@@ -1,198 +1,42 @@
-CISM PREP NOTES 
+# CISM Exam Preparation
 
+Study notes, resources, and a week-by-week preparation log for the **Certified Information Security Manager (CISM)** examination.
 
+> **Result: Passed** (November 2024)
 
-# Passed on 2nd Nov
+## Contents
 
+| Resource | Description |
+|----------|-------------|
+| `CISMAIO` | All-in-one condensed notes covering all 4 CISM domains |
+| `mike chapple` | Notes and chapter reviews from Mike Chapple's CISM materials |
+| `CISM AIO` | AIO study guide reference |
 
-# Week 1-2 
- 1. Mike Chapple CISM Book done
+## CISM Domains
 
-# Week 3-4 
- 2. CISM peter Gregory
+1. Information Security Governance
+2. Information Risk Management
+3. Information Security Program Development and Management
+4. Information Security Incident Management
 
+## Study Resources Used
 
+- **Mike Chapple** — CISM Study Guide (chapter-by-chapter review)
+- **CISM Peter Gregory** — Supplementary reference
+- **QAE Question Bank** — 300+ practice questions
+- **Prabh Nair** — Domain-specific video content
+- **Pete Zerger** — Domain video series
 
+## Study Plan Summary
 
+| Phase | Focus |
+|-------|-------|
+| Week 1–2 | Mike Chapple CISM Book (full read) |
+| Week 3–4 | CISM AIO + domain question banks (D1–D4) |
+| Week 4 | 150–300 QAE questions per day, domain note revision |
+| Week 5+ | Full practice exams, weak domain reinforcement |
 
- Day3 : Chapter review questions from mike chapple done 
+## Author
 
-
-
-
-
-
- 
- Day 4 : Domain 1 from AIO done ,D1 questions also done , Add. 150 questions from thor cism#1 done 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- Day 5 : Domain2 from AIO done , D2 questions also done . 
-         Pete D1 video done and notes taken 
-
-
-
-Day 6 : Domain 1-4 note revisiion , Pete D2 video done          
-
-
-
-
-
-# Week 4 
-
-
-Day 1 : 50 Question done , D1-d4 review notes , Prabh nair CISM question videos done 
-
-
-
-
-
-
-
-
-
-
-
-
-Day 2 : Prabh nair 40 questions , Doman 1-4 notes reviewe, QAE100 jquestion
-
-
-
-
-Day 3 : QAE 300 queston , Pete book domain 1 , d1-4 notes review 
-
-
-
-
-
-
-
-
-
-
-Day 4 : 150 QAE question . Pete book domain 2
-
-
-
-
-
-
-# Week 5
-
-
-
-Day1 : 100 QAE questions , D1 from Pete book , d1-4 note review |
-
-
-
-
-
-
-
-
-Day2: 200 QAE questions , D4 from Pete book , D! from pete book review 
-
-
-
-
-
-Day3 : 150 QAE , D2 from Pete book ,Prabh Nair CISM video 
-
-
-
-
-
-
-
-Day4 : 200 QAE , , D3 from pete book , D4 review 
-
-
-
-
-
-
-Day 5: 200 QAE questions , D3 review 
-
-
-
-
-
-
-
-
-
-
-Day 6 : 200 Questions , D3 from pete book
-
-
-
-# Week 6
-
-day 1 : Remaining QAE , Domain 3 review 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Day 2 : QAE Questions done , D3 from Pete book completed 
-
-
-
-
-
-
-DAY 3 : DAOMAIN4 QAE ALL DONE  
+**ASHDEX** — Security Researcher & Architect | CISM  
+[ashdex.com](https://ashdex.com)
